@@ -1,0 +1,13 @@
+h1 {
+    font-size: 40px;
+    font-family: Segoe UI;
+    color: darkblue;
+    font-weight: lighter;
+}
+
+p {
+    margin-top: 2px;
+    font-family: Arial;
+    color: lightgreen;
+    font-size: 45px;
+}
